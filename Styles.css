@@ -19,3 +19,9 @@ h1 {
     text-transform: uppercase;
 
 }
+
+ul {
+    
+    list-style-position: inside;
+
+}
