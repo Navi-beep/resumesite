@@ -1,0 +1,50 @@
+
+.body {
+    font-family: "Arial";
+    text-align: center;
+}
+
+.main-image {
+    border: solid 5px black;
+    border-radius: 50%;
+    width: 200px;
+}
+
+.nav {
+    text-align: center;
+}
+
+
+.header{
+    background-color: lightskyblue;
+    padding: 100px;
+    
+    text-align: center;
+}
+
+.Section-title
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.ul {
+    list-style-position: inside;
+}
+
+.footer{
+    text-align: left;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto;
+    background-color: #2196F3;
+    padding: 10px;
+    }
+
+.grid-item {
+    background-color: rgba(255, 255, 255, 0.8);
+    border: 2px solid rgba(0, 0, 0, 0.8);
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
