@@ -1,7 +1,4 @@
 
-
-
-
 body {
     font-family: "Arial";
     text-align: center;
@@ -12,6 +9,23 @@ body {
     border-radius: 50%;
     width: 200px;
 }
+
+
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  background-color: #2196F3;
+  padding: 10px;
+}
+
+.grid-item {
+  background-color: rgba(255, 255, 255, 0.8);
+  border: 2px solid rgba(0, 0, 0, 0.8);
+  padding: 20px;
+  font-size: 30px;
+  text-align: center;
+}
+
 
 h1 {
     background-color: lightskyblue;
