@@ -34,6 +34,31 @@ ul {
     text-transform: uppercase;	   
 }	
 
+.laptop2 {
+    border: solid 5px black;
+    width: 400px;
+    height: 400px;
+    text-align: center;
+}
+
+.pigeon {
+    border: solid 5px black;
+    width: 400px;
+    height: 400px;
+    text-align: center;
+}
+.tomb {
+    border: solid 5px black;
+    width: 400px;
+    height: 400px;
+    text-align: center;
+}
+.solar {
+    border: solid 5px black;
+    width: 400px;
+    height: 400px;
+    text-align: center;
+}
 
 footer {
     text-align: left;	    
