@@ -19,6 +19,7 @@ h1 {
     background-color: lightskyblue;
     padding: 5px;
     text-align: center;
+    
 }
 
 ul {
@@ -68,9 +69,10 @@ footer {
 .grid-container {
     display: grid;
     grid-template-columns: auto auto;
-    background-color: rgb(29, 145, 240);
+   
     padding: 10px;
     grid-gap: 10px;
+    
   }
   
 .grid-item {
@@ -79,4 +81,5 @@ footer {
     padding: 20px;
     font-size: 20px;
     text-align: center;
+
   }
